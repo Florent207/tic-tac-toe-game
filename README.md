@@ -11,7 +11,7 @@ The aim of the game is to align our pieces horizontally, vertically or diagonall
 ### Beginning
 Launch the application and the following window will appear :
 
-![My Image](img/1_Begin.JPG)
+![Begin](img/1_Begin.JPG)
 
 You have two options :
 - vs Computer starts a game against the computer. The computer has the O's and you have the X's
@@ -27,10 +27,8 @@ If you choose the second option, a draw will be held to decide whether you or th
 ### End of the game
 At the end of the game, a winner is decided unless there is a tie.
 
-![X win](img/2_X.jpg)
-
-![Equal](img/3_Equal.jpg)
+![Win](img/2_X.JPG)    ![Equal](img/3_Equal.JPG)
 
 In both cases, you can choose to restart the game by selecting the "Restart" option or quitting the game by choosing the "Quit" option. If you close this window, the application will close.
 
-Good game ;)
+**Good game ;)**
