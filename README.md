@@ -11,7 +11,7 @@ The aim of the game is to align our pieces horizontally, vertically or diagonall
 ### Beginning
 Launch the application and the following window will appear :
 
-![My Image](../img/1_Begin.jpg)
+![My Image](img/1_Begin.JPG)
 
 You have two options :
 - vs Computer starts a game against the computer. The computer has the O's and you have the X's
